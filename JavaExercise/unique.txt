@@ -1,0 +1,4 @@
+This is my first program to read and write first in file
+This is my first program to read and write in fileAPPEND
+This program is my first program to read and write in file
+This is my my first program to read and write in file

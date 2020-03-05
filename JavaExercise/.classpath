@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/pbaravk/Downloads/jackson-2.10.2/jackson-core-2.10.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/pbaravk/Downloads/jackson-2.10.2/jackson-annotations-2.10.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/pbaravk/Downloads/jackson-2.10.2/jackson-databind-2.10.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/pbaravk/Downloads/jackson-2.10.2/jackson-mapper-asl-1.5.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/pbaravk/Downloads/jackson-2.10.2/jackson-core-lgpl-0.9.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/pbaravk/Downloads/jackson-2.10.2/jackson-mapper-lgpl-0.9.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/pbaravk/Downloads/gson-2.2.2.jar/gson-2.2.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
