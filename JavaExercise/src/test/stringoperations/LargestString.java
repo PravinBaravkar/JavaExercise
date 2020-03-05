@@ -100,7 +100,7 @@ public class LargestString {
 	
 	public static void main(String[] args) {
 
-			String []names = {"Prav", "Praviniti", "Praniti", "Spruha", "Shree", "Isha", "Shri", "Pravinita"};
+			String []names = {"Prav", "Praviniti", "Praniti", "Spruha", "Shree", "Isha", "Shri", "ChetanBhagat"};
 			new LargestString().displayResult(names);
 			new LargestString().displayResultListWithMap(names);
 			new LargestString().displayResultList(names);
