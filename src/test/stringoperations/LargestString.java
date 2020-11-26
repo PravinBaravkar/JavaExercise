@@ -22,7 +22,7 @@ public class LargestString {
 		}
 		
 		System.out.println(largestStr + " is the largest string and length is :" + largestStr.length());
-		System.out.println(shortestStr + " is the largest string and length is :" + shortestStr.length());
+		System.out.println(shortestStr + " is the shortest string and length is :" + shortestStr.length());
 	}
 	
 	void displayResultListWithMap(String []names) {

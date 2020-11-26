@@ -18,7 +18,9 @@ public class StringReverse {
 			System.out.print(arr[i] + ",");
 		}
 
-		
+		System.out.println();
+		StringBuffer sb = new StringBuffer(str.toString().valueOf(str));
+		System.out.println(sb.reverse());
 	}
 
 }
